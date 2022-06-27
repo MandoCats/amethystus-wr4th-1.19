@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wrath:item/true_tysta_crystal"
+  }
+}
